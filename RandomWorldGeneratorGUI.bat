@@ -1,0 +1,1 @@
+java -cp bin;lib/KaroAPI4J.jar;lib/log4j-1.2.16.jar;lib/slf4j-api-1.6.4.jar;lib/slf4j-log4j12-1.6.4.jar ultimate.minecraft.RandomWorldGeneratorGUI
