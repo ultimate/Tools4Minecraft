@@ -22,7 +22,8 @@ public class RandomWorldGenerator
 
 	protected int			worldSize;
 
-	public RandomWorldGenerator(Class<? extends SeedGenerator> generatorClass, File toolsDir, File outputDir, int worldSize) throws InstantiationException, IllegalAccessException
+	public RandomWorldGenerator(Class<? extends SeedGenerator> generatorClass, File toolsDir, File outputDir, int worldSize)
+			throws InstantiationException, IllegalAccessException
 	{
 		super();
 		this.seedGenerator = generatorClass.newInstance();
@@ -77,7 +78,7 @@ public class RandomWorldGenerator
 
 			return p.getProperty("level-name");
 		}
-		catch (IOException e)
+		catch(IOException e)
 		{
 			e.printStackTrace();
 			return null;
@@ -115,7 +116,7 @@ public class RandomWorldGenerator
 		{
 			exec(mlgDir, "cmd /c " + mlgCMD.replace("%s", "" + size), false);
 		}
-		catch (IOException e)
+		catch(IOException e)
 		{
 			e.printStackTrace();
 		}
@@ -123,12 +124,12 @@ public class RandomWorldGenerator
 
 	protected void execZMC(int size)
 	{
-		int chunkSize = Math.round(10 * size / 16) / 10;
+		int chunkSize = (int) (Math.ceil(10 * (size + 1) / 16) / 10);
 		try
 		{
 			exec(zmcDir, "cmd /c " + zmcCMD.replace("%s", "" + chunkSize), false);
 		}
-		catch (IOException e)
+		catch(IOException e)
 		{
 			e.printStackTrace();
 		}
@@ -136,7 +137,7 @@ public class RandomWorldGenerator
 
 	protected int exec(File dir, String cmd, boolean print) throws IOException
 	{
-		//System.out.println("  executing: " + cmd);
+		// System.out.println("  executing: " + cmd);
 		Process p = Runtime.getRuntime().exec(cmd, null, dir);
 		int c;
 		while((c = p.getInputStream().read()) != -1)
@@ -149,11 +150,11 @@ public class RandomWorldGenerator
 
 	public static void main(String[] args) throws InstantiationException, IllegalAccessException
 	{
-		RandomWorldGenerator rg = new RandomWorldGenerator(UrbanDictionarySeedGenerator.class, new File("C:/H2O/Verkin/WS/Minecraft-Tools/tools"), new File(
-				"C:/H2O/Verkin/WS/Minecraft-Tools/levels"), 20);
+		RandomWorldGenerator rg = new RandomWorldGenerator(UrbanDictionarySeedGenerator.class, new File("C:/H2O/Verkin/WS/Minecraft-Tools/tools"),
+				new File("C:/H2O/Verkin/WS/Minecraft-Tools/levels"), 20);
 
 		rg.generateWorld();
-		
+
 		System.exit(0);
 	}
 }
