@@ -27618,3 +27618,556 @@ java.lang.NullPointerException
 2013-01-18 16:40:18 [INFO] Saving chunks for level 'world'/Nether
 2013-01-18 16:40:18 [INFO] Saving chunks for level 'world'/The End
 2013-01-18 16:40:19 [INFO] Stopping server
+2013-01-18 23:56:42 [INFO] Starting minecraft server version 1.4.7
+2013-01-18 23:56:42 [INFO] Loading properties
+2013-01-18 23:56:42 [INFO] Default game type: CREATIVE
+2013-01-18 23:56:42 [INFO] Generating keypair
+2013-01-18 23:56:42 [INFO] Starting Minecraft server on *:25565
+2013-01-18 23:56:42 [INFO] Preparing level "world"
+2013-01-18 23:56:48 [INFO] Preparing start region for level 0
+2013-01-18 23:56:49 [INFO] Preparing spawn area: 14%
+2013-01-18 23:56:50 [INFO] Preparing spawn area: 33%
+2013-01-18 23:56:51 [INFO] Preparing spawn area: 48%
+2013-01-18 23:56:52 [INFO] Preparing spawn area: 66%
+2013-01-18 23:56:53 [INFO] Preparing spawn area: 86%
+2013-01-18 23:56:54 [INFO] Done (11.405s)! For help, type "help" or "?"
+2013-01-18 23:56:54 [INFO] Saving...
+2013-01-18 23:57:15 [INFO] Saved the world
+2013-01-18 23:57:15 [INFO] Stopping the server
+2013-01-18 23:57:15 [INFO] Stopping server
+2013-01-18 23:57:15 [INFO] Saving players
+2013-01-18 23:57:15 [INFO] Saving worlds
+2013-01-18 23:57:15 [INFO] Saving chunks for level 'world'/Overworld
+2013-01-18 23:57:15 [INFO] Saving chunks for level 'world'/Nether
+2013-01-18 23:57:15 [INFO] Saving chunks for level 'world'/The End
+2013-01-18 23:57:16 [INFO] Stopping server
+2013-01-18 23:57:18 [INFO] Starting minecraft server version 1.4.7
+2013-01-18 23:57:18 [INFO] Loading properties
+2013-01-18 23:57:18 [INFO] Default game type: CREATIVE
+2013-01-18 23:57:18 [INFO] Generating keypair
+2013-01-18 23:57:18 [INFO] Starting Minecraft server on *:25565
+2013-01-18 23:57:18 [INFO] Preparing level "world"
+2013-01-18 23:57:18 [INFO] Preparing start region for level 0
+2013-01-18 23:57:19 [INFO] Preparing spawn area: 5%
+2013-01-18 23:57:20 [INFO] Preparing spawn area: 18%
+2013-01-18 23:57:21 [INFO] Preparing spawn area: 34%
+2013-01-18 23:57:22 [INFO] Preparing spawn area: 52%
+2013-01-18 23:57:23 [INFO] Preparing spawn area: 67%
+2013-01-18 23:57:24 [INFO] Preparing spawn area: 84%
+2013-01-18 23:57:25 [INFO] Done (7.020s)! For help, type "help" or "?"
+2013-01-18 23:57:25 [INFO] Saving...
+2013-01-18 23:57:36 [INFO] Saved the world
+2013-01-18 23:57:36 [INFO] Stopping the server
+2013-01-18 23:57:36 [INFO] Stopping server
+2013-01-18 23:57:36 [INFO] Saving players
+2013-01-18 23:57:36 [INFO] Saving worlds
+2013-01-18 23:57:36 [INFO] Saving chunks for level 'world'/Overworld
+2013-01-18 23:57:36 [INFO] Saving chunks for level 'world'/Nether
+2013-01-18 23:57:36 [INFO] Saving chunks for level 'world'/The End
+2013-01-18 23:57:38 [INFO] Starting minecraft server version 1.4.7
+2013-01-18 23:57:38 [INFO] Loading properties
+2013-01-18 23:57:38 [INFO] Default game type: CREATIVE
+2013-01-18 23:57:38 [INFO] Generating keypair
+2013-01-18 23:57:39 [INFO] Starting Minecraft server on *:25565
+2013-01-18 23:57:39 [INFO] Preparing level "world"
+2013-01-18 23:57:39 [INFO] Preparing start region for level 0
+2013-01-18 23:57:40 [INFO] Preparing spawn area: 6%
+2013-01-18 23:57:41 [INFO] Preparing spawn area: 19%
+2013-01-18 23:57:42 [INFO] Preparing spawn area: 36%
+2013-01-18 23:57:43 [INFO] Preparing spawn area: 53%
+2013-01-18 23:57:44 [INFO] Preparing spawn area: 71%
+2013-01-18 23:57:45 [INFO] Preparing spawn area: 89%
+2013-01-18 23:57:45 [INFO] Done (6.698s)! For help, type "help" or "?"
+2013-01-18 23:57:46 [INFO] Saving...
+2013-01-18 23:57:56 [INFO] Saved the world
+2013-01-18 23:57:56 [INFO] Stopping the server
+2013-01-18 23:57:56 [INFO] Stopping server
+2013-01-18 23:57:56 [INFO] Saving players
+2013-01-18 23:57:56 [INFO] Saving worlds
+2013-01-18 23:57:56 [INFO] Saving chunks for level 'world'/Overworld
+2013-01-18 23:57:56 [INFO] Saving chunks for level 'world'/Nether
+2013-01-18 23:57:56 [INFO] Saving chunks for level 'world'/The End
+2013-01-18 23:57:59 [INFO] Starting minecraft server version 1.4.7
+2013-01-18 23:57:59 [INFO] Loading properties
+2013-01-18 23:57:59 [INFO] Default game type: CREATIVE
+2013-01-18 23:57:59 [INFO] Generating keypair
+2013-01-18 23:57:59 [INFO] Starting Minecraft server on *:25565
+2013-01-18 23:57:59 [INFO] Preparing level "world"
+2013-01-18 23:57:59 [INFO] Preparing start region for level 0
+2013-01-18 23:58:01 [INFO] Preparing spawn area: 7%
+2013-01-18 23:58:02 [INFO] Preparing spawn area: 19%
+2013-01-18 23:58:03 [INFO] Preparing spawn area: 37%
+2013-01-18 23:58:04 [INFO] Preparing spawn area: 54%
+2013-01-18 23:58:05 [INFO] Preparing spawn area: 72%
+2013-01-18 23:58:06 [INFO] Preparing spawn area: 88%
+2013-01-18 23:58:06 [INFO] Done (6.814s)! For help, type "help" or "?"
+2013-01-18 23:58:06 [INFO] Saving...
+2013-01-18 23:58:17 [INFO] Saved the world
+2013-01-18 23:58:17 [INFO] Stopping the server
+2013-01-18 23:58:17 [INFO] Stopping server
+2013-01-18 23:58:17 [INFO] Saving players
+2013-01-18 23:58:17 [INFO] Saving worlds
+2013-01-18 23:58:17 [INFO] Saving chunks for level 'world'/Overworld
+2013-01-18 23:58:17 [INFO] Saving chunks for level 'world'/Nether
+2013-01-18 23:58:17 [INFO] Saving chunks for level 'world'/The End
+2013-01-18 23:58:19 [INFO] Stopping server
+2013-01-18 23:58:20 [INFO] Starting minecraft server version 1.4.7
+2013-01-18 23:58:20 [INFO] Loading properties
+2013-01-18 23:58:20 [INFO] Default game type: CREATIVE
+2013-01-18 23:58:20 [INFO] Generating keypair
+2013-01-18 23:58:20 [INFO] Starting Minecraft server on *:25565
+2013-01-18 23:58:20 [INFO] Preparing level "world"
+2013-01-18 23:58:20 [INFO] Preparing start region for level 0
+2013-01-18 23:58:21 [INFO] Preparing spawn area: 7%
+2013-01-18 23:58:22 [INFO] Preparing spawn area: 15%
+2013-01-18 23:58:23 [INFO] Preparing spawn area: 28%
+2013-01-18 23:58:24 [INFO] Preparing spawn area: 40%
+2013-01-18 23:58:25 [INFO] Preparing spawn area: 54%
+2013-01-18 23:58:26 [INFO] Preparing spawn area: 72%
+2013-01-18 23:58:27 [INFO] Preparing spawn area: 91%
+2013-01-18 23:58:28 [INFO] Done (7.676s)! For help, type "help" or "?"
+2013-01-18 23:58:28 [INFO] Saving...
+2013-01-18 23:58:38 [INFO] Saved the world
+2013-01-18 23:58:38 [INFO] Stopping the server
+2013-01-18 23:58:38 [INFO] Stopping server
+2013-01-18 23:58:38 [INFO] Saving players
+2013-01-18 23:58:38 [INFO] Saving worlds
+2013-01-18 23:58:38 [INFO] Saving chunks for level 'world'/Overworld
+2013-01-18 23:58:38 [INFO] Saving chunks for level 'world'/Nether
+2013-01-18 23:58:38 [INFO] Saving chunks for level 'world'/The End
+2013-01-18 23:58:40 [INFO] Starting minecraft server version 1.4.7
+2013-01-18 23:58:40 [INFO] Loading properties
+2013-01-18 23:58:40 [INFO] Default game type: CREATIVE
+2013-01-18 23:58:40 [INFO] Generating keypair
+2013-01-18 23:58:41 [INFO] Starting Minecraft server on *:25565
+2013-01-18 23:58:41 [INFO] Preparing level "world"
+2013-01-18 23:58:41 [INFO] Preparing start region for level 0
+2013-01-18 23:58:42 [INFO] Preparing spawn area: 5%
+2013-01-18 23:58:43 [INFO] Preparing spawn area: 16%
+2013-01-18 23:58:44 [INFO] Preparing spawn area: 33%
+2013-01-18 23:58:45 [INFO] Preparing spawn area: 48%
+2013-01-18 23:58:46 [INFO] Preparing spawn area: 64%
+2013-01-18 23:58:47 [INFO] Preparing spawn area: 82%
+2013-01-18 23:58:48 [INFO] Done (7.144s)! For help, type "help" or "?"
+2013-01-18 23:58:48 [INFO] Saving...
+2013-01-18 23:58:58 [INFO] Saved the world
+2013-01-18 23:58:58 [INFO] Stopping the server
+2013-01-18 23:58:58 [INFO] Stopping server
+2013-01-18 23:58:58 [INFO] Saving players
+2013-01-18 23:58:58 [INFO] Saving worlds
+2013-01-18 23:58:58 [INFO] Saving chunks for level 'world'/Overworld
+2013-01-18 23:58:58 [INFO] Saving chunks for level 'world'/Nether
+2013-01-18 23:58:58 [INFO] Saving chunks for level 'world'/The End
+2013-01-18 23:59:01 [INFO] Starting minecraft server version 1.4.7
+2013-01-18 23:59:01 [INFO] Loading properties
+2013-01-18 23:59:01 [INFO] Default game type: CREATIVE
+2013-01-18 23:59:01 [INFO] Generating keypair
+2013-01-18 23:59:02 [INFO] Starting Minecraft server on *:25565
+2013-01-18 23:59:02 [INFO] Preparing level "world"
+2013-01-18 23:59:02 [INFO] Preparing start region for level 0
+2013-01-18 23:59:03 [INFO] Preparing spawn area: 6%
+2013-01-18 23:59:04 [INFO] Preparing spawn area: 21%
+2013-01-18 23:59:05 [INFO] Preparing spawn area: 36%
+2013-01-18 23:59:06 [INFO] Preparing spawn area: 48%
+2013-01-18 23:59:07 [INFO] Preparing spawn area: 61%
+2013-01-18 23:59:08 [INFO] Preparing spawn area: 70%
+2013-01-18 23:59:09 [INFO] Preparing spawn area: 83%
+2013-01-18 23:59:10 [INFO] Done (8.148s)! For help, type "help" or "?"
+2013-01-18 23:59:10 [INFO] Saving...
+2013-01-18 23:59:21 [INFO] Saved the world
+2013-01-18 23:59:21 [INFO] Stopping the server
+2013-01-18 23:59:21 [INFO] Stopping server
+2013-01-18 23:59:21 [INFO] Saving players
+2013-01-18 23:59:21 [INFO] Saving worlds
+2013-01-18 23:59:21 [INFO] Saving chunks for level 'world'/Overworld
+2013-01-18 23:59:21 [INFO] Saving chunks for level 'world'/Nether
+2013-01-18 23:59:21 [INFO] Saving chunks for level 'world'/The End
+2013-01-18 23:59:23 [INFO] Stopping server
+2013-01-18 23:59:24 [INFO] Starting minecraft server version 1.4.7
+2013-01-18 23:59:24 [INFO] Loading properties
+2013-01-18 23:59:24 [INFO] Default game type: CREATIVE
+2013-01-18 23:59:24 [INFO] Generating keypair
+2013-01-18 23:59:24 [INFO] Starting Minecraft server on *:25565
+2013-01-18 23:59:24 [INFO] Preparing level "world"
+2013-01-18 23:59:24 [INFO] Preparing start region for level 0
+2013-01-18 23:59:25 [INFO] Preparing spawn area: 6%
+2013-01-18 23:59:26 [INFO] Preparing spawn area: 16%
+2013-01-18 23:59:27 [INFO] Preparing spawn area: 32%
+2013-01-18 23:59:28 [INFO] Preparing spawn area: 50%
+2013-01-18 23:59:30 [INFO] Preparing spawn area: 68%
+2013-01-18 23:59:31 [INFO] Preparing spawn area: 86%
+2013-01-18 23:59:31 [INFO] Done (6.820s)! For help, type "help" or "?"
+2013-01-18 23:59:31 [INFO] Saving...
+2013-01-18 23:59:41 [INFO] Saved the world
+2013-01-18 23:59:41 [INFO] Stopping the server
+2013-01-18 23:59:41 [INFO] Stopping server
+2013-01-18 23:59:41 [INFO] Saving players
+2013-01-18 23:59:41 [INFO] Saving worlds
+2013-01-18 23:59:41 [INFO] Saving chunks for level 'world'/Overworld
+2013-01-18 23:59:41 [INFO] Saving chunks for level 'world'/Nether
+2013-01-18 23:59:41 [INFO] Saving chunks for level 'world'/The End
+2013-01-18 23:59:43 [INFO] Stopping server
+2013-01-18 23:59:44 [INFO] Starting minecraft server version 1.4.7
+2013-01-18 23:59:44 [INFO] Loading properties
+2013-01-18 23:59:44 [INFO] Default game type: CREATIVE
+2013-01-18 23:59:44 [INFO] Generating keypair
+2013-01-18 23:59:45 [INFO] Starting Minecraft server on *:25565
+2013-01-18 23:59:45 [INFO] Preparing level "world"
+2013-01-18 23:59:45 [INFO] Preparing start region for level 0
+2013-01-18 23:59:46 [INFO] Preparing spawn area: 8%
+2013-01-18 23:59:47 [INFO] Preparing spawn area: 21%
+2013-01-18 23:59:48 [INFO] Preparing spawn area: 37%
+2013-01-18 23:59:49 [INFO] Preparing spawn area: 56%
+2013-01-18 23:59:50 [INFO] Preparing spawn area: 74%
+2013-01-18 23:59:51 [INFO] Preparing spawn area: 92%
+2013-01-18 23:59:51 [INFO] Done (6.550s)! For help, type "help" or "?"
+2013-01-18 23:59:51 [INFO] Saving...
+2013-01-19 00:00:01 [INFO] Saved the world
+2013-01-19 00:00:01 [INFO] Stopping the server
+2013-01-19 00:00:01 [INFO] Stopping server
+2013-01-19 00:00:01 [INFO] Saving players
+2013-01-19 00:00:01 [INFO] Saving worlds
+2013-01-19 00:00:01 [INFO] Saving chunks for level 'world'/Overworld
+2013-01-19 00:00:01 [INFO] Saving chunks for level 'world'/Nether
+2013-01-19 00:00:01 [INFO] Saving chunks for level 'world'/The End
+2013-01-19 00:00:04 [INFO] Starting minecraft server version 1.4.7
+2013-01-19 00:00:04 [INFO] Loading properties
+2013-01-19 00:00:04 [INFO] Default game type: CREATIVE
+2013-01-19 00:00:04 [INFO] Generating keypair
+2013-01-19 00:00:05 [INFO] Starting Minecraft server on *:25565
+2013-01-19 00:00:05 [INFO] Preparing level "world"
+2013-01-19 00:00:05 [INFO] Preparing start region for level 0
+2013-01-19 00:00:06 [INFO] Preparing spawn area: 8%
+2013-01-19 00:00:07 [INFO] Preparing spawn area: 22%
+2013-01-19 00:00:08 [INFO] Preparing spawn area: 39%
+2013-01-19 00:00:09 [INFO] Preparing spawn area: 58%
+2013-01-19 00:00:10 [INFO] Preparing spawn area: 75%
+2013-01-19 00:00:11 [INFO] Preparing spawn area: 95%
+2013-01-19 00:00:11 [INFO] Done (6.420s)! For help, type "help" or "?"
+2013-01-19 00:00:11 [INFO] Saving...
+2013-01-19 00:00:23 [INFO] Saved the world
+2013-01-19 00:00:23 [INFO] Stopping the server
+2013-01-19 00:00:23 [INFO] Stopping server
+2013-01-19 00:00:23 [INFO] Saving players
+2013-01-19 00:00:23 [INFO] Saving worlds
+2013-01-19 00:00:23 [INFO] Saving chunks for level 'world'/Overworld
+2013-01-19 00:00:23 [INFO] Saving chunks for level 'world'/Nether
+2013-01-19 00:00:23 [INFO] Saving chunks for level 'world'/The End
+2013-01-19 00:00:25 [INFO] Starting minecraft server version 1.4.7
+2013-01-19 00:00:25 [INFO] Loading properties
+2013-01-19 00:00:25 [INFO] Default game type: CREATIVE
+2013-01-19 00:00:25 [INFO] Generating keypair
+2013-01-19 00:00:26 [INFO] Starting Minecraft server on *:25565
+2013-01-19 00:00:26 [INFO] Preparing level "world"
+2013-01-19 00:00:26 [INFO] Preparing start region for level 0
+2013-01-19 00:00:27 [INFO] Preparing spawn area: 7%
+2013-01-19 00:00:28 [INFO] Preparing spawn area: 19%
+2013-01-19 00:00:29 [INFO] Preparing spawn area: 36%
+2013-01-19 00:00:30 [INFO] Preparing spawn area: 55%
+2013-01-19 00:00:31 [INFO] Preparing spawn area: 74%
+2013-01-19 00:00:32 [INFO] Preparing spawn area: 93%
+2013-01-19 00:00:32 [INFO] Done (6.479s)! For help, type "help" or "?"
+2013-01-19 00:00:32 [INFO] Saving...
+2013-01-19 00:00:42 [INFO] Saved the world
+2013-01-19 00:00:42 [INFO] Stopping the server
+2013-01-19 00:00:42 [INFO] Stopping server
+2013-01-19 00:00:42 [INFO] Saving players
+2013-01-19 00:00:42 [INFO] Saving worlds
+2013-01-19 00:00:42 [INFO] Saving chunks for level 'world'/Overworld
+2013-01-19 00:00:42 [INFO] Saving chunks for level 'world'/Nether
+2013-01-19 00:00:42 [INFO] Saving chunks for level 'world'/The End
+2013-01-19 00:00:44 [INFO] Stopping server
+2013-01-19 00:00:45 [INFO] Starting minecraft server version 1.4.7
+2013-01-19 00:00:45 [INFO] Loading properties
+2013-01-19 00:00:45 [INFO] Default game type: CREATIVE
+2013-01-19 00:00:45 [INFO] Generating keypair
+2013-01-19 00:00:46 [INFO] Starting Minecraft server on *:25565
+2013-01-19 00:00:46 [INFO] Preparing level "world"
+2013-01-19 00:00:46 [INFO] Preparing start region for level 0
+2013-01-19 00:00:47 [INFO] Preparing spawn area: 6%
+2013-01-19 00:00:48 [INFO] Preparing spawn area: 17%
+2013-01-19 00:00:49 [INFO] Preparing spawn area: 34%
+2013-01-19 00:00:50 [INFO] Preparing spawn area: 53%
+2013-01-19 00:00:51 [INFO] Preparing spawn area: 68%
+2013-01-19 00:00:52 [INFO] Preparing spawn area: 85%
+2013-01-19 00:00:53 [INFO] Done (6.892s)! For help, type "help" or "?"
+2013-01-19 00:00:53 [INFO] Saving...
+2013-01-19 00:01:03 [INFO] Saved the world
+2013-01-19 00:01:03 [INFO] Stopping the server
+2013-01-19 00:01:03 [INFO] Stopping server
+2013-01-19 00:01:03 [INFO] Saving players
+2013-01-19 00:01:03 [INFO] Saving worlds
+2013-01-19 00:01:03 [INFO] Saving chunks for level 'world'/Overworld
+2013-01-19 00:01:03 [INFO] Saving chunks for level 'world'/Nether
+2013-01-19 00:01:03 [INFO] Saving chunks for level 'world'/The End
+2013-01-19 00:01:05 [INFO] Stopping server
+2013-01-19 00:01:05 [INFO] Saving players
+2013-01-19 00:01:06 [INFO] Starting minecraft server version 1.4.7
+2013-01-19 00:01:06 [INFO] Loading properties
+2013-01-19 00:01:06 [INFO] Default game type: CREATIVE
+2013-01-19 00:01:06 [INFO] Generating keypair
+2013-01-19 00:01:06 [INFO] Starting Minecraft server on *:25565
+2013-01-19 00:01:06 [INFO] Preparing level "world"
+2013-01-19 00:01:07 [INFO] Preparing start region for level 0
+2013-01-19 00:01:08 [INFO] Preparing spawn area: 8%
+2013-01-19 00:01:09 [INFO] Preparing spawn area: 18%
+2013-01-19 00:01:10 [INFO] Preparing spawn area: 34%
+2013-01-19 00:01:11 [INFO] Preparing spawn area: 52%
+2013-01-19 00:01:12 [INFO] Preparing spawn area: 69%
+2013-01-19 00:01:13 [INFO] Preparing spawn area: 85%
+2013-01-19 00:01:13 [INFO] Done (6.913s)! For help, type "help" or "?"
+2013-01-19 00:01:14 [INFO] Saving...
+2013-01-19 00:01:22 [INFO] Saved the world
+2013-01-19 00:01:22 [INFO] Stopping the server
+2013-01-19 00:01:22 [INFO] Stopping server
+2013-01-19 00:01:22 [INFO] Saving players
+2013-01-19 00:01:22 [INFO] Saving worlds
+2013-01-19 00:01:22 [INFO] Saving chunks for level 'world'/Overworld
+2013-01-19 00:01:22 [INFO] Saving chunks for level 'world'/Nether
+2013-01-19 00:01:22 [INFO] Saving chunks for level 'world'/The End
+2013-01-19 00:01:24 [INFO] Stopping server
+2013-01-19 00:01:26 [INFO] Starting minecraft server version 1.4.7
+2013-01-19 00:01:26 [INFO] Loading properties
+2013-01-19 00:01:26 [INFO] Default game type: CREATIVE
+2013-01-19 00:01:26 [INFO] Generating keypair
+2013-01-19 00:01:26 [INFO] Starting Minecraft server on *:25565
+2013-01-19 00:01:26 [INFO] Preparing level "world"
+2013-01-19 00:01:26 [INFO] Preparing start region for level 0
+2013-01-19 00:01:27 [INFO] Preparing spawn area: 7%
+2013-01-19 00:01:28 [INFO] Preparing spawn area: 22%
+2013-01-19 00:01:29 [INFO] Preparing spawn area: 39%
+2013-01-19 00:01:30 [INFO] Preparing spawn area: 59%
+2013-01-19 00:01:31 [INFO] Preparing spawn area: 77%
+2013-01-19 00:01:32 [INFO] Preparing spawn area: 95%
+2013-01-19 00:01:32 [INFO] Done (6.416s)! For help, type "help" or "?"
+2013-01-19 00:01:33 [INFO] Saving...
+2013-01-19 00:01:43 [INFO] Saved the world
+2013-01-19 00:01:43 [INFO] Stopping the server
+2013-01-19 00:01:43 [INFO] Stopping server
+2013-01-19 00:01:43 [INFO] Saving players
+2013-01-19 00:01:43 [INFO] Saving worlds
+2013-01-19 00:01:43 [INFO] Saving chunks for level 'world'/Overworld
+2013-01-19 00:01:43 [INFO] Saving chunks for level 'world'/Nether
+2013-01-19 00:01:43 [INFO] Saving chunks for level 'world'/The End
+2013-01-19 00:01:44 [INFO] Stopping server
+2013-01-19 00:01:44 [INFO] Saving players
+2013-01-19 00:01:46 [INFO] Starting minecraft server version 1.4.7
+2013-01-19 00:01:46 [INFO] Loading properties
+2013-01-19 00:01:46 [INFO] Default game type: CREATIVE
+2013-01-19 00:01:46 [INFO] Generating keypair
+2013-01-19 00:01:46 [INFO] Starting Minecraft server on *:25565
+2013-01-19 00:01:46 [INFO] Preparing level "world"
+2013-01-19 00:01:46 [INFO] Preparing start region for level 0
+2013-01-19 00:01:47 [INFO] Preparing spawn area: 6%
+2013-01-19 00:01:48 [INFO] Preparing spawn area: 16%
+2013-01-19 00:01:49 [INFO] Preparing spawn area: 34%
+2013-01-19 00:01:50 [INFO] Preparing spawn area: 53%
+2013-01-19 00:01:51 [INFO] Preparing spawn area: 72%
+2013-01-19 00:01:52 [INFO] Preparing spawn area: 92%
+2013-01-19 00:01:53 [INFO] Done (6.572s)! For help, type "help" or "?"
+2013-01-19 00:01:53 [INFO] Saving...
+2013-01-19 00:02:04 [INFO] Saved the world
+2013-01-19 00:02:04 [INFO] Stopping the server
+2013-01-19 00:02:04 [INFO] Stopping server
+2013-01-19 00:02:04 [INFO] Saving players
+2013-01-19 00:02:04 [INFO] Saving worlds
+2013-01-19 00:02:04 [INFO] Saving chunks for level 'world'/Overworld
+2013-01-19 00:02:04 [INFO] Saving chunks for level 'world'/Nether
+2013-01-19 00:02:04 [INFO] Saving chunks for level 'world'/The End
+2013-01-19 00:02:05 [INFO] Stopping server
+2013-01-19 00:02:06 [INFO] Starting minecraft server version 1.4.7
+2013-01-19 00:02:06 [INFO] Loading properties
+2013-01-19 00:02:06 [INFO] Default game type: CREATIVE
+2013-01-19 00:02:06 [INFO] Generating keypair
+2013-01-19 00:02:07 [INFO] Starting Minecraft server on *:25565
+2013-01-19 00:02:07 [INFO] Preparing level "world"
+2013-01-19 00:02:07 [INFO] Preparing start region for level 0
+2013-01-19 00:02:08 [INFO] Preparing spawn area: 7%
+2013-01-19 00:02:09 [INFO] Preparing spawn area: 21%
+2013-01-19 00:02:10 [INFO] Preparing spawn area: 38%
+2013-01-19 00:02:11 [INFO] Preparing spawn area: 59%
+2013-01-19 00:02:12 [INFO] Preparing spawn area: 81%
+2013-01-19 00:02:13 [INFO] Done (5.984s)! For help, type "help" or "?"
+2013-01-19 00:02:13 [INFO] Saving...
+2013-01-19 00:02:24 [INFO] Saved the world
+2013-01-19 00:02:24 [INFO] Stopping the server
+2013-01-19 00:02:24 [INFO] Stopping server
+2013-01-19 00:02:24 [INFO] Saving players
+2013-01-19 00:02:24 [INFO] Saving worlds
+2013-01-19 00:02:24 [INFO] Saving chunks for level 'world'/Overworld
+2013-01-19 00:02:24 [INFO] Saving chunks for level 'world'/Nether
+2013-01-19 00:02:24 [INFO] Saving chunks for level 'world'/The End
+2013-01-19 00:02:27 [INFO] Starting minecraft server version 1.4.7
+2013-01-19 00:02:27 [INFO] Loading properties
+2013-01-19 00:02:27 [INFO] Default game type: CREATIVE
+2013-01-19 00:02:27 [INFO] Generating keypair
+2013-01-19 00:02:27 [INFO] Starting Minecraft server on *:25565
+2013-01-19 00:02:27 [INFO] Preparing level "world"
+2013-01-19 00:02:27 [INFO] Preparing start region for level 0
+2013-01-19 00:02:28 [INFO] Preparing spawn area: 8%
+2013-01-19 00:02:29 [INFO] Preparing spawn area: 22%
+2013-01-19 00:02:30 [INFO] Preparing spawn area: 40%
+2013-01-19 00:02:31 [INFO] Preparing spawn area: 83%
+2013-01-19 00:02:32 [INFO] Done (4.501s)! For help, type "help" or "?"
+2013-01-19 00:02:32 [INFO] Saving...
+2013-01-19 00:02:37 [INFO] Saved the world
+2013-01-19 00:02:37 [INFO] Stopping the server
+2013-01-19 00:02:37 [INFO] Stopping server
+2013-01-19 00:02:37 [INFO] Saving players
+2013-01-19 00:02:37 [INFO] Saving worlds
+2013-01-19 00:02:37 [INFO] Saving chunks for level 'world'/Overworld
+2013-01-19 00:02:37 [INFO] Saving chunks for level 'world'/Nether
+2013-01-19 00:02:37 [INFO] Saving chunks for level 'world'/The End
+2013-01-19 00:02:39 [INFO] Starting minecraft server version 1.4.7
+2013-01-19 00:02:39 [INFO] Loading properties
+2013-01-19 00:02:39 [INFO] Default game type: CREATIVE
+2013-01-19 00:02:39 [INFO] Generating keypair
+2013-01-19 00:02:39 [INFO] Starting Minecraft server on *:25565
+2013-01-19 00:02:39 [INFO] Preparing level "world"
+2013-01-19 00:02:39 [INFO] Preparing start region for level 0
+2013-01-19 00:02:40 [INFO] Preparing spawn area: 6%
+2013-01-19 00:02:41 [INFO] Preparing spawn area: 14%
+2013-01-19 00:02:42 [INFO] Preparing spawn area: 32%
+2013-01-19 00:02:43 [INFO] Preparing spawn area: 52%
+2013-01-19 00:02:44 [INFO] Preparing spawn area: 68%
+2013-01-19 00:02:45 [INFO] Preparing spawn area: 86%
+2013-01-19 00:02:46 [INFO] Done (6.911s)! For help, type "help" or "?"
+2013-01-19 00:02:46 [INFO] Saving...
+2013-01-19 00:02:59 [INFO] Saved the world
+2013-01-19 00:02:59 [INFO] Stopping the server
+2013-01-19 00:02:59 [INFO] Stopping server
+2013-01-19 00:02:59 [INFO] Saving players
+2013-01-19 00:02:59 [INFO] Saving worlds
+2013-01-19 00:02:59 [INFO] Saving chunks for level 'world'/Overworld
+2013-01-19 00:02:59 [INFO] Saving chunks for level 'world'/Nether
+2013-01-19 00:02:59 [INFO] Saving chunks for level 'world'/The End
+2013-01-19 00:03:00 [INFO] Stopping server
+2013-01-19 00:03:01 [INFO] Starting minecraft server version 1.4.7
+2013-01-19 00:03:01 [INFO] Loading properties
+2013-01-19 00:03:01 [INFO] Default game type: CREATIVE
+2013-01-19 00:03:01 [INFO] Generating keypair
+2013-01-19 00:03:02 [INFO] Starting Minecraft server on *:25565
+2013-01-19 00:03:02 [INFO] Preparing level "world"
+2013-01-19 00:03:02 [INFO] Preparing start region for level 0
+2013-01-19 00:03:03 [INFO] Preparing spawn area: 6%
+2013-01-19 00:03:04 [INFO] Preparing spawn area: 16%
+2013-01-19 00:03:05 [INFO] Preparing spawn area: 33%
+2013-01-19 00:03:06 [INFO] Preparing spawn area: 52%
+2013-01-19 00:03:07 [INFO] Preparing spawn area: 70%
+2013-01-19 00:03:08 [INFO] Preparing spawn area: 90%
+2013-01-19 00:03:09 [INFO] Done (6.748s)! For help, type "help" or "?"
+2013-01-19 00:03:09 [INFO] Saving...
+2013-01-19 00:03:20 [INFO] Saved the world
+2013-01-19 00:03:20 [INFO] Stopping the server
+2013-01-19 00:03:20 [INFO] Stopping server
+2013-01-19 00:03:20 [INFO] Saving players
+2013-01-19 00:03:20 [INFO] Saving worlds
+2013-01-19 00:03:20 [INFO] Saving chunks for level 'world'/Overworld
+2013-01-19 00:03:20 [INFO] Saving chunks for level 'world'/Nether
+2013-01-19 00:03:20 [INFO] Saving chunks for level 'world'/The End
+2013-01-19 00:03:23 [INFO] Starting minecraft server version 1.4.7
+2013-01-19 00:03:23 [INFO] Loading properties
+2013-01-19 00:03:23 [INFO] Default game type: CREATIVE
+2013-01-19 00:03:23 [INFO] Generating keypair
+2013-01-19 00:03:24 [INFO] Starting Minecraft server on *:25565
+2013-01-19 00:03:24 [INFO] Preparing level "world"
+2013-01-19 00:03:24 [INFO] Preparing start region for level 0
+2013-01-19 00:03:25 [INFO] Preparing spawn area: 10%
+2013-01-19 00:03:26 [INFO] Preparing spawn area: 19%
+2013-01-19 00:03:27 [INFO] Preparing spawn area: 32%
+2013-01-19 00:03:28 [INFO] Preparing spawn area: 50%
+2013-01-19 00:03:29 [INFO] Preparing spawn area: 67%
+2013-01-19 00:03:30 [INFO] Preparing spawn area: 84%
+2013-01-19 00:03:31 [INFO] Done (7.142s)! For help, type "help" or "?"
+2013-01-19 00:03:31 [INFO] Saving...
+2013-01-19 00:03:41 [INFO] Saved the world
+2013-01-19 00:03:41 [INFO] Stopping the server
+2013-01-19 00:03:41 [INFO] Stopping server
+2013-01-19 00:03:41 [INFO] Saving players
+2013-01-19 00:03:41 [INFO] Saving worlds
+2013-01-19 00:03:41 [INFO] Saving chunks for level 'world'/Overworld
+2013-01-19 00:03:41 [INFO] Saving chunks for level 'world'/Nether
+2013-01-19 00:03:41 [INFO] Saving chunks for level 'world'/The End
+2013-01-19 00:03:43 [INFO] Stopping server
+2013-01-19 00:03:44 [INFO] Starting minecraft server version 1.4.7
+2013-01-19 00:03:44 [INFO] Loading properties
+2013-01-19 00:03:44 [INFO] Default game type: CREATIVE
+2013-01-19 00:03:44 [INFO] Generating keypair
+2013-01-19 00:03:44 [INFO] Starting Minecraft server on *:25565
+2013-01-19 00:03:44 [INFO] Preparing level "world"
+2013-01-19 00:03:45 [INFO] Preparing start region for level 0
+2013-01-19 00:03:46 [INFO] Preparing spawn area: 10%
+2013-01-19 00:03:47 [INFO] Preparing spawn area: 21%
+2013-01-19 00:03:48 [INFO] Preparing spawn area: 38%
+2013-01-19 00:03:49 [INFO] Preparing spawn area: 58%
+2013-01-19 00:03:50 [INFO] Preparing spawn area: 76%
+2013-01-19 00:03:51 [INFO] Preparing spawn area: 96%
+2013-01-19 00:03:51 [INFO] Done (6.436s)! For help, type "help" or "?"
+2013-01-19 00:03:51 [INFO] Saving...
+2013-01-19 00:04:01 [INFO] Saved the world
+2013-01-19 00:04:01 [INFO] Stopping the server
+2013-01-19 00:04:01 [INFO] Stopping server
+2013-01-19 00:04:01 [INFO] Saving players
+2013-01-19 00:04:01 [INFO] Saving worlds
+2013-01-19 00:04:01 [INFO] Saving chunks for level 'world'/Overworld
+2013-01-19 00:04:01 [INFO] Saving chunks for level 'world'/Nether
+2013-01-19 00:04:01 [INFO] Saving chunks for level 'world'/The End
+2013-01-19 00:04:03 [INFO] Stopping server
+2013-01-19 00:04:04 [INFO] Starting minecraft server version 1.4.7
+2013-01-19 00:04:04 [INFO] Loading properties
+2013-01-19 00:04:04 [INFO] Default game type: CREATIVE
+2013-01-19 00:04:04 [INFO] Generating keypair
+2013-01-19 00:04:05 [INFO] Starting Minecraft server on *:25565
+2013-01-19 00:04:05 [INFO] Preparing level "world"
+2013-01-19 00:04:05 [INFO] Preparing start region for level 0
+2013-01-19 00:04:06 [INFO] Preparing spawn area: 10%
+2013-01-19 00:04:07 [INFO] Preparing spawn area: 25%
+2013-01-19 00:04:08 [INFO] Preparing spawn area: 48%
+2013-01-19 00:04:09 [INFO] Preparing spawn area: 71%
+2013-01-19 00:04:10 [INFO] Preparing spawn area: 95%
+2013-01-19 00:04:10 [INFO] Done (5.374s)! For help, type "help" or "?"
+2013-01-19 00:04:10 [INFO] Saving...
+2013-01-19 00:04:20 [INFO] Saved the world
+2013-01-19 00:04:20 [INFO] Stopping the server
+2013-01-19 00:04:20 [INFO] Stopping server
+2013-01-19 00:04:20 [INFO] Saving players
+2013-01-19 00:04:20 [INFO] Saving worlds
+2013-01-19 00:04:20 [INFO] Saving chunks for level 'world'/Overworld
+2013-01-19 00:04:20 [INFO] Saving chunks for level 'world'/Nether
+2013-01-19 00:04:20 [INFO] Saving chunks for level 'world'/The End
+2013-01-19 00:04:22 [INFO] Stopping server
+2013-01-19 00:04:23 [INFO] Starting minecraft server version 1.4.7
+2013-01-19 00:04:23 [INFO] Loading properties
+2013-01-19 00:04:23 [INFO] Default game type: CREATIVE
+2013-01-19 00:04:23 [INFO] Generating keypair
+2013-01-19 00:04:23 [INFO] Starting Minecraft server on *:25565
+2013-01-19 00:04:24 [INFO] Preparing level "world"
+2013-01-19 00:04:24 [INFO] Preparing start region for level 0
+2013-01-19 00:04:25 [INFO] Preparing spawn area: 29%
+2013-01-19 00:04:26 [INFO] Preparing spawn area: 53%
+2013-01-19 00:04:27 [INFO] Preparing spawn area: 70%
+2013-01-19 00:04:28 [INFO] Preparing spawn area: 86%
+2013-01-19 00:04:28 [INFO] Done (4.788s)! For help, type "help" or "?"
+2013-01-19 00:04:28 [INFO] Saving...
+2013-01-19 00:04:34 [INFO] Saved the world
+2013-01-19 00:04:34 [INFO] Stopping the server
+2013-01-19 00:04:34 [INFO] Stopping server
+2013-01-19 00:04:34 [INFO] Saving players
+2013-01-19 00:04:34 [INFO] Saving worlds
+2013-01-19 00:04:34 [INFO] Saving chunks for level 'world'/Overworld
+2013-01-19 00:04:34 [INFO] Saving chunks for level 'world'/Nether
+2013-01-19 00:04:34 [INFO] Saving chunks for level 'world'/The End
+2013-01-19 00:04:37 [INFO] Starting minecraft server version 1.4.7
+2013-01-19 00:04:37 [INFO] Loading properties
+2013-01-19 00:04:37 [INFO] Default game type: CREATIVE
+2013-01-19 00:04:37 [INFO] Generating keypair
+2013-01-19 00:04:38 [INFO] Starting Minecraft server on *:25565
+2013-01-19 00:04:38 [INFO] Preparing level "world"
+2013-01-19 00:04:38 [INFO] Preparing start region for level 0
+2013-01-19 00:04:39 [INFO] Preparing spawn area: 9%
+2013-01-19 00:04:40 [INFO] Preparing spawn area: 23%
+2013-01-19 00:04:41 [INFO] Preparing spawn area: 45%
+2013-01-19 00:04:42 [INFO] Preparing spawn area: 66%
+2013-01-19 00:04:43 [INFO] Preparing spawn area: 87%
+2013-01-19 00:04:44 [INFO] Done (5.828s)! For help, type "help" or "?"
+2013-01-19 00:04:44 [INFO] Saving...
