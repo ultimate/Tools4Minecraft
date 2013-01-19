@@ -66,17 +66,14 @@ public class RandomWorldGenerator
 		return worldSize;
 	}
 
-	public void generateWorld()
+	public String generateWorld()
 	{
 		System.out.print("  Generating seed...     ");
 		String seed = seedGenerator.getSeed();
 		System.out.println(seed);
 		
 		if(seed == null)
-		{
-			System.out.println("  seed is null: aborting!");
-			return;
-		}
+			return null;
 
 		System.out.print("  Updating properties... ");
 		String worldName = modifyProperties(seed);
@@ -97,6 +94,8 @@ public class RandomWorldGenerator
 		System.out.print("  Removing wolrd...      ");
 		removeWorld(worldName);
 		System.out.println("OK");
+		
+		return seed;
 	}
 
 	protected String modifyProperties(String seed)
