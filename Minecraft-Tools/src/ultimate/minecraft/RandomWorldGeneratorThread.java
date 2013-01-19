@@ -17,11 +17,17 @@ public class RandomWorldGeneratorThread extends Thread
 	{
 		this.running = true;
 		int i = 0;
+		String seed;
 		while(running)
 		{
 			i++;
 			printStatus(i);
-			generator.generateWorld();
+			seed = generator.generateWorld();
+			if(seed == null)
+			{
+				System.out.println("seed is null: aborting!");
+				running = false;
+			}
 		}
 	}
 

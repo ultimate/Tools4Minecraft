@@ -20,7 +20,7 @@ public class ExistingMapsSeedGenerator extends SeedGenerator
 	@Override
 	public String getSeed()
 	{
-		if(index > files.length)
+		if(index >= files.length)
 			return null;
 		
 		File f = files[index++];
