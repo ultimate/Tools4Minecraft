@@ -11,7 +11,8 @@ import ultimate.minecraft.seeds.UrbanDictionarySeedGenerator;
 public class RandomWorldGenerator
 {
 	public static String	mlgCMD	= "java -client -Djava.awt.headless=true -jar MinecraftLandGenerator.jar %s %s -x0 -y0";
-	public static String	zmcCMD	= "mcmap -from -%s -%s -to %s %s ../MinecraftLandGenerator/world";
+//	public static String	zmcCMD	= "mcmap -from -%s -%s -to %s %s ../MinecraftLandGenerator/world";
+	public static String	zmcCMD	= "mcmap ../MinecraftLandGenerator/world";
 
 	protected SeedGenerator	seedGenerator;
 
@@ -26,12 +27,43 @@ public class RandomWorldGenerator
 			throws InstantiationException, IllegalAccessException
 	{
 		super();
-		this.seedGenerator = generatorClass.newInstance();
 		this.toolsDir = toolsDir;
 		this.mlgDir = new File(toolsDir.getAbsolutePath() + "/MinecraftLandGenerator");
 		this.zmcDir = new File(toolsDir.getAbsolutePath() + "/zmcmap");
 		this.outputDir = outputDir;
 		this.worldSize = worldSize;
+		this.seedGenerator = generatorClass.newInstance();
+		this.seedGenerator.setGenerator(this);
+	}
+
+	public SeedGenerator getSeedGenerator()
+	{
+		return seedGenerator;
+	}
+
+	public File getToolsDir()
+	{
+		return toolsDir;
+	}
+
+	public File getMlgDir()
+	{
+		return mlgDir;
+	}
+
+	public File getZmcDir()
+	{
+		return zmcDir;
+	}
+
+	public File getOutputDir()
+	{
+		return outputDir;
+	}
+
+	public int getWorldSize()
+	{
+		return worldSize;
 	}
 
 	public void generateWorld()
@@ -39,6 +71,12 @@ public class RandomWorldGenerator
 		System.out.print("  Generating seed...     ");
 		String seed = seedGenerator.getSeed();
 		System.out.println(seed);
+		
+		if(seed == null)
+		{
+			System.out.println("  seed is null: aborting!");
+			return;
+		}
 
 		System.out.print("  Updating properties... ");
 		String worldName = modifyProperties(seed);

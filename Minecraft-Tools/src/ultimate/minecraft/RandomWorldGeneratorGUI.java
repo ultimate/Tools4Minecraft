@@ -16,6 +16,7 @@ import javax.swing.JSpinner;
 import javax.swing.JTextField;
 import javax.swing.SpinnerNumberModel;
 
+import ultimate.minecraft.seeds.ExistingMapsSeedGenerator;
 import ultimate.minecraft.seeds.SeedGenerator;
 import ultimate.minecraft.seeds.UrbanDictionarySeedGenerator;
 import ultimate.minecraft.seeds.WikipediaSeedGenerator;
@@ -25,7 +26,7 @@ public class RandomWorldGeneratorGUI extends JFrame implements WindowListener
 	private static final long				serialVersionUID	= 1L;
 
 	private static final GeneratorLabel[]	generatorClasses	= new GeneratorLabel[] { new GeneratorLabel(WikipediaSeedGenerator.class),
-			new GeneratorLabel(UrbanDictionarySeedGenerator.class) };
+			new GeneratorLabel(UrbanDictionarySeedGenerator.class), new GeneratorLabel(ExistingMapsSeedGenerator.class) };
 
 	private int								worldSize;
 	private File							toolsDir;
@@ -42,7 +43,7 @@ public class RandomWorldGeneratorGUI extends JFrame implements WindowListener
 	private JSpinner						sizeSpinner;
 	private FileChooser						toolsFileChooser;
 	private FileChooser						outputFileChooser;
-	private JComboBox<GeneratorLabel>				generatorComboBox;
+	private JComboBox<GeneratorLabel>		generatorComboBox;
 	private JButton							startButton;
 	private JButton							stopButton;
 
@@ -108,9 +109,10 @@ public class RandomWorldGeneratorGUI extends JFrame implements WindowListener
 					generator = new RandomWorldGenerator(((GeneratorLabel) generatorComboBox.getSelectedItem()).generatorClass, toolsDir, outputDir,
 							worldSize);
 				}
-				catch (Exception e)
+				catch(Exception e)
 				{
 					error(e.getMessage());
+					e.printStackTrace();
 					return;
 				}
 				startButton.setEnabled(false);
@@ -141,7 +143,7 @@ public class RandomWorldGeneratorGUI extends JFrame implements WindowListener
 				{
 					thread.stopGeneration();
 				}
-				catch (InterruptedException e)
+				catch(InterruptedException e)
 				{
 					e.printStackTrace();
 				}
@@ -252,7 +254,7 @@ public class RandomWorldGeneratorGUI extends JFrame implements WindowListener
 			{
 				thread.stopGeneration();
 			}
-			catch (InterruptedException e1)
+			catch(InterruptedException e1)
 			{
 				e1.printStackTrace();
 				System.exit(1);
