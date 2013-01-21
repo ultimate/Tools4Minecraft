@@ -7,6 +7,7 @@ import java.awt.event.WindowListener;
 import java.io.File;
 
 import javax.swing.JButton;
+import javax.swing.JCheckBox;
 import javax.swing.JComboBox;
 import javax.swing.JFileChooser;
 import javax.swing.JFrame;
@@ -31,6 +32,7 @@ public class RandomWorldGeneratorGUI extends JFrame implements WindowListener
 	private int								worldSize;
 	private File							toolsDir;
 	private File							outputDir;
+	private boolean							removeWorlds;
 	private RandomWorldGenerator			generator;
 	private RandomWorldGeneratorThread		thread;
 
@@ -38,12 +40,14 @@ public class RandomWorldGeneratorGUI extends JFrame implements WindowListener
 	private JLabel							toolsLabel;
 	private JLabel							outputLabel;
 	private JLabel							generatorLabel;
+	private JLabel							optionsLabel;
 	private JLabel							statusLabel;
 
 	private JSpinner						sizeSpinner;
 	private FileChooser						toolsFileChooser;
 	private FileChooser						outputFileChooser;
 	private JComboBox<GeneratorLabel>		generatorComboBox;
+	private JCheckBox						removeCheckBox;
 	private JButton							startButton;
 	private JButton							stopButton;
 
@@ -64,10 +68,14 @@ public class RandomWorldGeneratorGUI extends JFrame implements WindowListener
 		generatorLabel = new JLabel("Seed-Generator:");
 		generatorLabel.setSize(120, 20);
 		generatorLabel.setLocation(10, 100);
+		
+		optionsLabel = new JLabel("Options:");
+		optionsLabel.setSize(120, 20);
+		optionsLabel.setLocation(10, 130);
 
 		statusLabel = new JLabel("");
 		statusLabel.setSize(280, 20);
-		statusLabel.setLocation(10, 160);
+		statusLabel.setLocation(10, 230);
 
 		sizeSpinner = new JSpinner(new SpinnerNumberModel(2000, 100, 10000, 100));
 		sizeSpinner.setSize(250, 20);
@@ -84,6 +92,10 @@ public class RandomWorldGeneratorGUI extends JFrame implements WindowListener
 		generatorComboBox = new JComboBox<GeneratorLabel>(generatorClasses);
 		generatorComboBox.setSize(250, 20);
 		generatorComboBox.setLocation(140, 100);
+		
+		removeCheckBox = new JCheckBox("Remove Worlds after Generation");
+		removeCheckBox.setSize(250, 20);
+		removeCheckBox.setLocation(140, 130);
 
 		startButton = new JButton();
 		startButton.setText("START");
@@ -104,10 +116,11 @@ public class RandomWorldGeneratorGUI extends JFrame implements WindowListener
 					error("invalid output-directory!");
 					return;
 				}
+				removeWorlds = removeCheckBox.isSelected();
 				try
 				{
 					generator = new RandomWorldGenerator(((GeneratorLabel) generatorComboBox.getSelectedItem()).generatorClass, toolsDir, outputDir,
-							worldSize);
+							worldSize, removeWorlds);
 				}
 				catch(Exception e)
 				{
@@ -128,7 +141,7 @@ public class RandomWorldGeneratorGUI extends JFrame implements WindowListener
 				stopButton.setEnabled(true);
 			}
 		});
-		startButton.setLocation(90, 130);
+		startButton.setLocation(90, 200);
 		startButton.setSize(80, 20);
 
 		stopButton = new JButton();
@@ -151,7 +164,7 @@ public class RandomWorldGeneratorGUI extends JFrame implements WindowListener
 				startButton.setEnabled(true);
 			}
 		});
-		stopButton.setLocation(210, 130);
+		stopButton.setLocation(210, 200);
 		stopButton.setSize(80, 20);
 
 		this.getContentPane().setLayout(null);// new GridLayout(4, 2));
@@ -164,6 +177,8 @@ public class RandomWorldGeneratorGUI extends JFrame implements WindowListener
 		this.getContentPane().add(outputFileChooser, null);
 		this.getContentPane().add(generatorLabel, null);
 		this.getContentPane().add(generatorComboBox, null);
+		this.getContentPane().add(optionsLabel, null);
+		this.getContentPane().add(removeCheckBox, null);
 		this.getContentPane().add(startButton, null);
 		this.getContentPane().add(stopButton, null);
 		this.getContentPane().add(statusLabel, null);
@@ -171,7 +186,7 @@ public class RandomWorldGeneratorGUI extends JFrame implements WindowListener
 		this.repaint();
 
 		this.setVisible(true);
-		this.setSize(420, 230);
+		this.setSize(420, 300);
 		this.addWindowListener(this);
 	}
 
